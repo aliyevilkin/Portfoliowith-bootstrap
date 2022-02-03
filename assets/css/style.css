@@ -1,0 +1,38 @@
+.header{
+    color: #1080ca;
+    border-bottom: 5px solid #1260e5;
+}
+body{
+    background-color: rgb(3, 166, 231);
+}
+
+.content{
+    background-color: #1049ac;
+    border-radius: 10px;
+}
+.portfolioText{
+    color: #7c9cbb;
+    border-bottom: 1px solid #212529;
+}
+.card-body p{
+    color: #4a6075;
+}
+.card-body a{
+    text-align: center;
+}
+.contact{
+    background-color: #1260e5;
+
+    border-radius: 10px;
+}
+.footer{
+    color: #1260e5;
+}
+.connectMe{
+    color: #212529;
+    text-align: center;
+    border-bottom: 1px solid #212529;
+}
+.contact1{
+    color: white;
+}
