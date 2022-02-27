@@ -1,0 +1,39 @@
+.header{
+    color: #ca8f10;
+    border-bottom: 5px solid #e27a19;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.content{
+    background-color: #171b1a;
+
+    border-radius: 10px;
+}
+.portfolioText{
+    color: #e27a19;
+    border-bottom: 5px solid #ffffff;
+}
+.card-body p{
+    color: #3a5a0f;
+}
+.card-body a{
+    text-align: center;
+}
+.contact{
+    background-color: #171b1a;
+    
+    border-radius: 10px;
+}
+.footer{
+    color: #ca8f10;
+}
+.connectMe{
+    color: #e27a19;
+    text-align: center;
+    border-bottom: 1px solid #212529;
+}
+.contact1{
+    color: white;
+}
